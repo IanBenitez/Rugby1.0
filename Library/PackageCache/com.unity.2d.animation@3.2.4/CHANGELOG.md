@@ -28,6 +28,7 @@
 - Add alwaysUpdate option to SpriteSkin to determine if SpriteSkin execution should occur even when the associated SpriteRenderer is culled
 - Added message to inform user on dependent packages when viewing certain sample Scenes
 - Added API to access deformed vertices from SpriteSkin
+
 ### Changed
 - Improved SpriteSkinEditor UI
 - Adjust length of popup and value fields for Weight Slider Window
